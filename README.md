@@ -1,2 +1,0 @@
-ozamasa.github.com
-==================
